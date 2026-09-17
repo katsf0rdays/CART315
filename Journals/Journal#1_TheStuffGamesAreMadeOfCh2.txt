@@ -9,7 +9,8 @@ Chapter two of Pippin Barr’s The Stuff Games Are Made Of  describes the notion
 He uses examples from his many versions of Pong he himself created in order to put forth this idea, which includes either removing or adding trivial aspects of its gameplay. 
 
 This concept of reimagining a game doesn’t seem to be anything new in theory. The way players flock to new releases of the same popular franchises because they are hoping 
-for new mechanics and gimmicks in a game they’ve dumped hours into is just standard by all means. However, when a developer puts a new spin on a beloved game everyone is familiar with, it somehow feels unique and refreshing.
+for new mechanics and gimmicks in a game they’ve dumped hours into is just standard by all means. However, when a developer puts a new spin on 
+a beloved game everyone is familiar with, it somehow feels unique and refreshing.
 This reminded me of two examples of recently released games that have been popularized due to this factor, Meccha Cameleon and How to Fish, both brought to life by indie creators.
 
 The former is a take on the simple hide and seek. The gimmick of this game however, is being able to open a color palette to use as your main method of disguise to the 
