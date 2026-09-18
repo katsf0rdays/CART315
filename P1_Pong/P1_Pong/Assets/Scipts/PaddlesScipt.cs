@@ -35,8 +35,5 @@ public class PaddlesScipt : MonoBehaviour
 
     }
 
-
-
-
 }
 
